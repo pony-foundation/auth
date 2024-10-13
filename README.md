@@ -1,2 +1,2 @@
-# auth
-pony.foundation auth server
+# Auth
+pony.foundation auth server built with Ory Kratos
